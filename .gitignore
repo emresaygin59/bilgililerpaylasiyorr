@@ -1,0 +1,5 @@
+node_modules\n.next\n.env.local
+.env.local
+/.env.local
+.env.local.example
+node_modules
